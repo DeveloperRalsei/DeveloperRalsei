@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ralsei</h1>
 <h3 align="center">A passionate fullstack developer from Turkiye 🇹🇷️</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=developerralsei" alt="developerralsei" /></a> </p>
-
 - 🔭 I’m currently working on [MERN Blog](https://github.com/DeveloperRalsei/MERN-App-Blog-Template)
 
 - 🌱 I’m currently learning **C, C++, and some mobile development techs**
