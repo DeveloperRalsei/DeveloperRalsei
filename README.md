@@ -10,11 +10,9 @@
 
 # 📊 GitHub Stats:
 
-<img h=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developerRalsei&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" />
+<img h=200 align="center" src="https://github-readme-stats.vercel.app/api?username=developerRalsei&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<img h=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerRalsei&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+<img h=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=developerRalsei&theme=tokyonight&include_all_commits=true&count_private=true" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=developerRalsei&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
